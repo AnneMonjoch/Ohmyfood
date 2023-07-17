@@ -421,4 +421,8 @@ a[href="mailto:exemple@ohmyfood.fr?subject=Contact"] {
   color: white;
   text-decoration: none; }
 
+.affichage-droite1 {
+  float: right;
+  position: relative; }
+
 /*# sourceMappingURL=style.css.map */

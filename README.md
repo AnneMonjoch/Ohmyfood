@@ -1,2 +1,2 @@
-github lien : https://github.com/AnneMonjoch/ohmyfood
+github lien : 
 github pages : https://annemonjoch.github.io/ohmyfood/

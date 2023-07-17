@@ -400,7 +400,6 @@ header {
     margin-top: 20px;
 	margin-left: 10px;
 	padding-bottom: 30px;
-	
 	display: flex;
     flex-direction: column;
 
@@ -463,6 +462,7 @@ header {
 .affichage-droite {
     position: relative;
     margin-top: 0 !important;
+
 }
 
 .icon-coeur > .fas {
@@ -584,6 +584,10 @@ a[href="mailto:exemple@ohmyfood.fr?subject=Contact"] {
 	text-decoration: none;
 }
 
+.affichage-droite1 {
+    float: right;
+    position: relative;
+}
 
 
 
